@@ -1,0 +1,7 @@
+AkoSiBiko website code and original study material
+
+Copyright (c) 2026 AkoSiBiko
+
+You may copy, modify and publish the website code for your own Bible-study project, subject to the rights of any external Bible text or resources loaded by the application.
+
+The King James Version text is public domain in the United States. External corpus repositories and any future third-party study resources may have their own licenses. Check each source before redistributing it.
